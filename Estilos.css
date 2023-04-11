@@ -1,0 +1,41 @@
+.container{
+   background-color: aquamarine;
+   width: 50%;
+   min-width: 500px;
+   height: 80%;
+   min-height: 800px;
+}
+.title{
+   background-color: brown;
+   width: 30%;
+}
+.m-0{
+    margin: 0px;
+}
+.marco{
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.d-flex{
+    display: flex;
+}
+.center{
+    margin: auto;
+    justify-content: center;
+}
+.t-center{
+    text-align: center;
+}
+.p-left-10{
+    padding-left: 10px;
+}
+.p-right-10{
+    padding-right: 10px;
+}
+.videos{
+    padding: 10px;
+    width: 30%;
+    max-width: 300px;
+    margin-top: 10%;
+}
